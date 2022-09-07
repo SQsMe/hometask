@@ -1,0 +1,15 @@
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\bin\Debug\net6.0\homework1sim.exe
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\bin\Debug\net6.0\homework1sim.deps.json
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\bin\Debug\net6.0\homework1sim.runtimeconfig.json
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\bin\Debug\net6.0\homework1sim.dll
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\bin\Debug\net6.0\homework1sim.pdb
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\homework1sim.csproj.AssemblyReference.cache
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\homework1sim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\homework1sim.AssemblyInfoInputs.cache
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\homework1sim.AssemblyInfo.cs
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\homework1sim.csproj.CoreCompileInputs.cache
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\homework1sim.dll
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\refint\homework1sim.dll
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\homework1sim.pdb
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\homework1sim.genruntimeconfig.cache
+C:\Users\SQsMe\Desktop\seminar 1\homework1sim\task4\obj\Debug\net6.0\ref\homework1sim.dll
